@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     $("#btnSim").on("click", function(){
-        swal("", "TE AMO, MINHA PRINCESA. +40 REAIS PELO CHUTE!❤️", "success"); 
+        swal("", "TE AMO, PRINCESA. VOCÊ É PERFEITA!❤️", "success"); 
     });
 
     $("#btnNao").hover(

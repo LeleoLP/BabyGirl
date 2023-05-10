@@ -3,13 +3,13 @@
 body {
     min-height: 100vh;
     margin: 0;
-    background: linear-gradient(45deg, rgb(38, 150, 255), rgb(240, 54, 82));
+    background-color: #5a0303;
     padding: 60px;
     cursor: pointer;
 }
 
 #titulo{
-    background-color: #ffffff;
+    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
     font-weight: bold;
